@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://CarmenOcotan/Cheesecake-recipe">
+    <a href="https://carmenocotan.github.io/Cheesecake-recipe/">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://devchallenges.io/solutions/F679mb69tBUNxuuUCFjK">
       Challenge
     </a>
   </h3>
