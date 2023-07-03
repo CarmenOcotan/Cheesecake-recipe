@@ -1,0 +1,268 @@
+.conteiner {
+	max-width: 1440px;
+	margin: auto;
+    display: flex;
+    justify-content:center;
+}
+
+.subContenedor {
+    width: 969px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* CONTENEDOR 1  */
+
+.tit1 {
+    font-family: 'Playfair Display', serif;
+    width: 587px;
+    height: 64px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    margin-bottom: 12px;
+}
+
+.lista1 {
+    list-style-type:  none;
+    display: flex;
+    padding: 0;
+    margin-bottom: 23px;
+}
+
+.puntos {
+    width:13px;
+    height:20px;
+    margin: 0 ;
+    margin-right: 10px;
+}
+
+.p1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    margin: 0 ;
+    width: 592px;
+    font-weight: 500;
+    font-size: 14.5px;
+    line-height: 20px;
+}
+
+.postre {
+    width: 969px;
+    height: 470px;
+    border-radius: 12px;
+    margin-top: 12px;
+    
+}
+
+/* Contededor dos */
+
+.con2{
+    width: 969px;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 40px;
+}
+
+.primero {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0;
+}
+
+.segundo {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.p2 {
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+.chec {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #828282;
+    border-radius: 4px;
+    margin: 0;
+    margin-right: 10px;
+}
+
+.ingred {
+    font-family: 'Montserrat';
+    font-style: normal;
+    margin: 0 ;
+    height: 51px;
+    width: 554px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.ingred_1 {
+    font-family: 'Montserrat';
+    font-style: italic;
+    margin: 0 ;
+    height: 75px;
+    width: 554px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.unico{
+    Font-family: 'Montserrat';
+    font-Weight: 500;
+    font-style: italic;
+    font-size: 16px;
+    Line-height:22px;
+}
+
+.prueba {
+    display: flex;
+    margin: 0;
+}
+
+.con2_2 {
+    width: 216px;
+    height: 367px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+.subCon2_2{
+    margin-top: 50px;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.tiempo {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.edi{
+    height: 28.33px;
+    width: 28.33px;
+}
+
+.color_1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #F2994A;
+    margin: auto;
+}
+
+.color {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333333;
+    margin: auto;
+}
+
+.cuchi {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-right: 15px;
+}
+
+.cuchi_1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    text-transform: uppercase;
+    color: #BDBDBD;
+    margin-bottom: 4px;
+}
+
+.palabra {
+    text-align: left;
+}
+
+/* CONTENEDOR 3 */
+
+.con3{
+    display: flex;
+    margin-top: 40px;
+    flex-direction: column;
+}
+
+.final{
+    display: flex;
+    margin-bottom: 40px;
+}
+.numeros {
+    width: 36px;
+    height: 36px;
+    background: #F2994A;
+    border-radius: 6px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.ins {
+    width: 528px;
+    margin: 0;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.direccion {
+    width: 500px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #BDBDBD;
+}
+
+.pie{
+    display:flex ;
+    justify-content: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #828282;
+    margin-top: 93px;
+}
+
+.pieA {
+    color: #828282;
+    font-weight: 700;
+}
